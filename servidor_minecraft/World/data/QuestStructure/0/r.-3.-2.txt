@@ -1,0 +1,13 @@
+StonePlantMound4,-2026,-2019,-1537,-1530
+StonePlantMound2,-2010,-1997,-1525,-1513
+StonePlantMound4,-1839,-1832,-1525,-1518
+RLCraft_DecentSkeleton,-2000,-2000,-1440,-1440
+RLCraft_UndergroundRuin3,-2006,-1998,-1443,-1435
+RLCraft_BasicSpider,-2006,-2006,-1420,-1420
+RLCraft_UndergroundRuin1,-2012,-2003,-1426,-1417
+StoneBoulder,-1832,-1823,-1428,-1419
+StoneLeafMound,-1782,-1773,-1527,-1520
+Tree_Oak_TheMushroomOak_v3,-1826,-1767,-1524,-1474
+StoneBoulder,-1802,-1793,-1432,-1423
+StonePlantBoulder,-1772,-1762,-1447,-1437
+StonePlantMound,-1727,-1722,-1454,-1449

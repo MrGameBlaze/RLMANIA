@@ -1,0 +1,10 @@
+RLCraft_BasicSpider,-3608,-3608,-1065,-1065
+RLCraft_UndergroundRuin1,-3611,-3602,-1071,-1062
+StonePlantMound4,-3629,-3622,-1099,-1092
+StonePlantMound,-3628,-3623,-1145,-1140
+StonePlantMound2,-3699,-3687,-1096,-1083
+StonePlantMound1,-3670,-3664,-1200,-1194
+RLCraft_DecentZombie,-3707,-3707,-1112,-1112
+RLCraft_UndergroundRuin3,-3709,-3701,-1117,-1109
+RLCraft_DecentCaveSpider,-3736,-3736,-1160,-1160
+RLCraft_UndergroundRuin2,-3741,-3731,-1165,-1158

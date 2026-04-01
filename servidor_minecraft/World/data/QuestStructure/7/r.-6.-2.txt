@@ -1,0 +1,8 @@
+StonePlantMound2,-3529,-3517,-1033,-1020
+RLCraft_BasicSkeleton,-3487,-3487,-1203,-1203
+RLCraft_UndergroundRuin1,-3493,-3484,-1209,-1200
+OldWatchtower,-3440,-3428,-1105,-1092
+StonePlantMound4,-3423,-3416,-1205,-1198
+StonePlantMound2,-3396,-3384,-1157,-1144
+StonePlantMound4,-3383,-3376,-1128,-1121
+StonePlantMound,-3381,-3376,-1194,-1189

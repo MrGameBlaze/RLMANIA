@@ -1,0 +1,4 @@
+StoneBoulder,-5297,-5288,-2721,-2712
+P_SmallShip,-5487,-5481,-2607,-2587
+StonePlantMound,-5631,-5626,-3004,-2999
+RLCraft_SmallUndergroundSkeleton,-5597,-5589,-3034,-3026
